@@ -26,7 +26,7 @@ gh repo create "simple-GitHubCLI" --public
 gh repo list
 ```
 
-## ```shell
+```shell
 gh auth refresh -h github.com -s admin:public_key
 ```
 
